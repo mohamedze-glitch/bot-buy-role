@@ -1,0 +1,35 @@
+{
+    "token": "",
+    "prefix": "",
+    "status": "",
+    "probot_id": "",
+    "color": "",
+    "bank_id": "",
+    "roles": {
+      "role1": {
+        "id": "",
+        "name": "",
+        "price": ""
+      },
+      "role2": {
+        "id": "",
+        "name": "",
+        "price": ""
+      },
+      "role3": {
+        "id": "",
+        "name": "",
+        "price": ""
+      },
+      "role4": {
+        "id": "",
+        "name": "",
+        "price": ""
+      },
+      "role5": {
+        "id": "",
+        "name": "",
+        "price": ""
+      }
+    }
+  }
